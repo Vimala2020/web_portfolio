@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&family=Pacifico&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Gupter", serif;
+}
+ 
+#name{
+    font-family: "Pacifico", cursive;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  
